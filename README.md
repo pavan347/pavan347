@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan347&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar" /> </p>
 
 - 👀 I’m interested in **Full Stack Developer** as well as **Java Developer**
-- 🌱 I’m currently learning DSA using Java
+- 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on **Java and Full Stack Projects**
 - 🤝 I’m looking for help with **Freelancing projects.**
 - 📫 How to reach me **pavankumargarapati04@gmail.com**
