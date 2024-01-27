@@ -16,19 +16,23 @@
 - 😄 Pronouns: **He/Him**
   
 - ⚡ Fun fact: **(rest == true) ? "outOfDate" : "upToDate;**
-  
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">#Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/garapati-pavan-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Garapati-Pavan-kumar" height="30" width="40" /></a>
 </p>
 
+<table>
+  </tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavan347&show_icons=true&locale=en&layout=compact" alt="pavankumar" /></td>
+  <tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan347&" alt="pavankumar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=pavan347&show_icons=true&locale=en" alt="pavankumar" /></td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavan347&show_icons=true&locale=en&layout=compact" alt="pavankumar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan347&show_icons=true&locale=en" alt="pavankumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan347&" alt="pavankumar" /></p>
 
 
 <!---
