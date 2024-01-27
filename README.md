@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, I'm Garapati Pavan Kumar </h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello+!+I+am+Garapati+Pavan+Kumar)](https://git.io/typing-svg)
+<h3>A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan347&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar" /> </p>
 
